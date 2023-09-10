@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+  }
+
+  .container {
+    border: 5px solid black;
+    width: 550px;
+    height: 400px;
+    margin: 100px;
+    margin-left: 350px;
+  }
+
+  h1 {
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-top: 50px;
+    border-radius: 5px;
+    border: 2px solid black;
+  }
+  
+  form {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  input {
+    width: 350px;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid skyblue;
+    margin-left: 63px;
+    margin-right: 200px;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border: 2px solid black;
+    cursor: pointer;
+    margin-left: 200px;
+    justify-content: center;
+    border-radius: 5px;
+  }
